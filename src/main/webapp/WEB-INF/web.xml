@@ -11,7 +11,7 @@
         <servlet-class>fr.laerce.cinema.Affiche</servlet-class>
         <init-param>
             <param-name>url</param-name>
-            <param-value>C:\\Users\\patou\\Desktop\\CDA\\Frederick\\affiches</param-value>
+            <param-value>C:\Users\CDI\Pictures\affiches</param-value>
         </init-param>
 
     </servlet>
